@@ -1,5 +1,5 @@
 # mth337
-Coursework from UB's MTH 337: Scientific and Mathematical Computing
+Python coursework from UB's MTH 337: Scientific and Mathematical Computing
 
 	Project 1: Prime Numbers
   
